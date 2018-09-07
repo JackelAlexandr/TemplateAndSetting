@@ -1,1 +1,1 @@
-# TemplateAndSetting
+Altium Designer Template and Setting 
