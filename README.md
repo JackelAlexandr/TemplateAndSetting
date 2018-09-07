@@ -11,3 +11,4 @@ STRUCTURE
 |     +-PCB (Template for PCB Editor)
 |     |
 |     +-SHM (Registration of drawings according to the GOST standard)
+|
