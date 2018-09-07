@@ -1,0 +1,8 @@
+# Ignore all history folder
+*/History/
+
+# Ignore all .log files
+*.LOG
+
+# Ignore all .zip files
+*.zip
